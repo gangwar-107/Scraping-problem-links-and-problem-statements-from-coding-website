@@ -1,6 +1,7 @@
-# Scraping-problems-links-and-problems-statements-from-coding-website
+# Scraping-problem-links-and-problem-statements-from-coding-website
 
-A project to scrap the questions llinks with their statements from the coding website. This website contains two sections of python and java questions.Each of them contains different sections with coding problems.
+Web scraping is a technique to exrtract large amount of data from websites whereby the data is extracted and saved to a local file of computer or to a database.
+It is the project to scrap the questions links with their statements from the coding website. This website contains two sections of questions of python and java .Each of them contains different sections with coding problems.
 
 
 # Basic steps for web scraping
