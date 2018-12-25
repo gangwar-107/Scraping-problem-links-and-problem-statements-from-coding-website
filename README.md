@@ -1,4 +1,4 @@
-# Scraping-problem-links-and-problem-statements-from-coding-website
+# Scraping-problems-links-and-problems-statements-from-coding-website
 
 A project to scrap the questions llinks with their statements from the coding website. This website contains two sections of python and java questions.Each of them contains different sections with coding problems.
 
@@ -37,6 +37,7 @@ HTML code is like a Tree of tags and Beautiful soup is used to parse the tree fo
 Below are the link of java and python sections of coding website which is used to scrap the data:
 
 https://codingbat.com/java
+
 https://codingbat.com/python
 
 
