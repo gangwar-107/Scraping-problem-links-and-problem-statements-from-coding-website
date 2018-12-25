@@ -41,6 +41,10 @@ https://codingbat.com/java
 
 https://codingbat.com/python
 
+# Output
+
+Scraped_questions.xlsx is the ouput file which contains two worksheet one for java section and another for python section.Each worksheet contains section link, questions links of their respective sections and problem statements of all questions. 
+
 
                   
           
